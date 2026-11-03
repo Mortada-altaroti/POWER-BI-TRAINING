@@ -1,4 +1,4 @@
-# POWER-BI-TRAINING# Power BI Training Program
+# Power BI Training Program
 
 A 10-day practical Power BI training program designed and delivered during my cooperative training at the Data and Statistics Center of Qatif Municipality.
 
